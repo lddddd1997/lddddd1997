@@ -8,6 +8,8 @@
 - 💬 Ask me about anything [here](https://github.com/lddddd1997/lddddd1997/issues)
 - 📫 Reach me: lddddd1997@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lddddd1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lddddd1997/lddddd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
