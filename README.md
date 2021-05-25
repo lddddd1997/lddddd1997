@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/45536885/119434216-4d79f580-bd4a-11eb-932a-db5dd1e9f309.png)
 
 <!--
 **lddddd1997/lddddd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
