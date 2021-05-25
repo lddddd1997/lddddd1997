@@ -1,6 +1,6 @@
 ### Hi there, I’m [lddddd](https://github.com/lddddd1997/) 👋
-<p align="center">
-  <img src="https://github.com/lddddd1997/ImageURL/blob/main/hello-world.gif" width="50%">
+<p align="left">
+  <img src="https://github.com/lddddd1997/ImageURL/blob/main/hello-world.gif" width="30%">
 </p>
 
 - 🔭 I’m currently studying at UESTC
