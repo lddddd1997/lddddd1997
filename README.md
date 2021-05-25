@@ -7,8 +7,8 @@
 - 💬 Ask me about anything [here](https://github.com/lddddd1997/lddddd1997/issues)
 - 📫 Reach me: lddddd1997@gmail.com
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lddddd1997&layout=compact">-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lddddd1997&count_private=true&show_icons=true">
+<!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lddddd1997&layout=compact">-->
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lddddd1997&count_private=true&show_icons=true">
 
 <!--
 **lddddd1997/lddddd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
