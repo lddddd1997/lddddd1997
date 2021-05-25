@@ -2,10 +2,12 @@
 <p align="center">
   <img src="https://github.com/lddddd1997/ImageURL/blob/main/hello-world.gif" width="50%">
 </p>
-- 🔭 I’m currently studying at UESTC.
-- 🌱 I’m currently learning C++.
+
+- 🔭 I’m currently studying at UESTC
+- 🌱 I’m currently learning C++
 - 💬 Ask me about anything [here](https://github.com/lddddd1997/lddddd1997/issues)
 - 📫 Reach me: lddddd1997@gmail.com
+
 <!--
 **lddddd1997/lddddd1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
