@@ -3,7 +3,7 @@
   <img src="https://github.com/lddddd1997/ImageURL/blob/main/hello-world.gif" width="30%">
 </p>
 
-- 🔭 I’m currently studying at UESTC
+- 🔭 I’m currently studying at [UESTC](https://www.uestc.edu.cn/)
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything [here](https://github.com/lddddd1997/lddddd1997/issues)
 - 📫 Reach me: lddddd1997@gmail.com
