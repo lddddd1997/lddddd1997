@@ -3,7 +3,6 @@
 <img align="right" width="40%" src="https://github.com/lddddd1997/ImageURL/blob/main/hello-world.gif">
 
 - 🔭 I’m currently studying for a master's degree at [UESTC](https://www.uestc.edu.cn/)
-- 🌱 I’m currently learning CN, OS, DB
 - 💬 Ask me about anything [here](https://github.com/lddddd1997/lddddd1997/issues)
 - 📫 Reach me: lddddd1997@gmail.com
 
